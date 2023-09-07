@@ -1,0 +1,31 @@
+
+.header--img{
+ height: 40vh;
+ width: 100%;
+ background-repeat: no-repeat;   
+}
+
+.header--title, .header--website{
+    color: white;
+}
+.header--prof{
+    color:#F3BF99
+}
+.header{
+    text-align: center;
+}
+
+button{
+    padding:10px;
+    margin:10px;
+    border:none;
+    border-radius: 5px;
+    width: 100px;
+}
+button>.fa{
+padding-right: 10px;
+}
+.header--linkedin{
+    background-color:#5093E2;
+    color:white    
+}

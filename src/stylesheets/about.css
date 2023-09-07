@@ -1,0 +1,8 @@
+.about{
+    color:white;
+    margin:20px;
+}
+.about>p{
+    font-size: 15px;
+    max-width: 400px;
+}
